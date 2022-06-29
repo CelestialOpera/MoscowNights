@@ -23,7 +23,7 @@ ideas = {
 			}
 		}
 
-		WUR_marxist_leninist_guy = {
+		WUR_communist_guy = {
 			
 			picture = generic_political_advisor_europe_3
 			
@@ -31,7 +31,7 @@ ideas = {
 				original_tag = WUR
 			}
 			
-			traits = { marxist_leninist_revolutionary }
+			traits = { communist_revolutionary }
 
 			do_effect = {
 				NOT = {

@@ -1,4 +1,4 @@
-YUG_marxist_leninist = {
+YUG_communist = {
 	name = "Yugoslavian marxist_leninist plan"
 	desc = ""
 

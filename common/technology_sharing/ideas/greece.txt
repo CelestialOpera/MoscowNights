@@ -106,7 +106,7 @@ ideas = {
 			}
 		}
 
-		GRE_industrializing_society_marxist_leninist = {
+		GRE_industrializing_society_communist = {
 				
 			allowed = {
 				original_tag = GRE
@@ -564,7 +564,7 @@ ideas = {
 				
 		}
 
-		GRE_political_instability_marxist_leninist = {
+		GRE_political_instability_communist = {
 				
 			allowed = {
 				original_tag = GRE
@@ -1715,7 +1715,7 @@ ideas = {
 			}
 		}
 
-		GRE_marxist_leninist_protests = { 
+		GRE_communist_protests = { 
 				
 			allowed = {
 				original_tag = GRE
@@ -2540,14 +2540,14 @@ ideas = {
 			}
 		}
 
-		GRE_loyal_marxist_leninists = {
+		GRE_loyal_communists = {
 
 			allowed = {
 				always = no
 			}
 
 			cancel = {
-				NOT = { check_variable = { GRE_marxist_leninist_loyalty = 2 compare = equals } }
+				NOT = { check_variable = { GRE_communist_loyalty = 2 compare = equals } }
 			}
 			
 			removal_cost = -1
@@ -2558,14 +2558,14 @@ ideas = {
 			}
 		}
 
-		GRE_friendly_marxist_leninists = {
+		GRE_friendly_communists = {
 
 			allowed = {
 				always = no
 			}
 
 			cancel = {
-				NOT = { check_variable = { GRE_marxist_leninist_loyalty = 1 compare = equals } }
+				NOT = { check_variable = { GRE_communist_loyalty = 1 compare = equals } }
 			}
 			
 			removal_cost = -1
@@ -2576,14 +2576,14 @@ ideas = {
 			}
 		}
 
-		GRE_hostile_marxist_leninists = {
+		GRE_hostile_communists = {
 
 			allowed = {
 				always = no
 			}
 
 			cancel = {
-				NOT = { check_variable = { GRE_marxist_leninist_loyalty = -1 compare = equals } }
+				NOT = { check_variable = { GRE_communist_loyalty = -1 compare = equals } }
 			}
 			
 			removal_cost = -1

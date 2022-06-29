@@ -24,7 +24,7 @@ recruit_character = ZAM_stc
 recruit_character = ZAM_ncs
 recruit_character = ZAM_awt
 recruit_character = ZAM_mt
-recruit_character = ZAM_marxist_leninist_guy
+recruit_character = ZAM_communist_guy
 recruit_character = ZAM_ai2
 recruit_character = ZAM_ar
 

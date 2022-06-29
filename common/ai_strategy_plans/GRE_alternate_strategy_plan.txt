@@ -169,7 +169,7 @@ GRE_alternate_monarchist_plan = {
 
 }
 
-GRE_marxist_leninist_plan = {
+GRE_communist_plan = {
 	name = "Greece Communist Plan"
 	desc = "Greece will attempt to join the Comintern and spark a battle for the Bosporus with Turkey"
 
@@ -196,7 +196,7 @@ GRE_marxist_leninist_plan = {
 		GRE_reevaluating_the_drachma #March 10 1936	
 		GRE_utilize_our_strengths #May 20 1936	
 		GRE_bring_home_the_exiled_republicans #July 30 1936	
-		GRE_request_marxist_leninist_support #October 10 1936
+		GRE_request_communist_support #October 10 1936
 		GRE_a_socialist_economy #October 10 1936	
 		GRE_the_hellenic_army #December 20 1936	
 		GRE_open_foreign_subsidized_factories #February 30 1937	
@@ -254,7 +254,7 @@ GRE_marxist_leninist_plan = {
 
 }
 
-GRE_alternate_marxist_leninist_plan = {
+GRE_alternate_communist_plan = {
 	name = "Greece Alternate Communist Plan"
 	desc = "Greece will attempt to fight ultranationalist in Europe from the Balkans with marxist_leninist Yugoslavia"
 
@@ -278,7 +278,7 @@ GRE_alternate_marxist_leninist_plan = {
 		GRE_reevaluating_the_drachma #March 10 1936	
 		GRE_force_the_farmers_into_factories #May 20 1936	
 		GRE_bring_home_the_exiled_republicans #July 30 1936	
-		GRE_request_marxist_leninist_support #October 10 1936
+		GRE_request_communist_support #October 10 1936
 		GRE_a_socialist_economy #October 10 1936	
 		GRE_the_hellenic_army #December 20 1936	
 		GRE_open_foreign_subsidized_factories #February 30 1937	

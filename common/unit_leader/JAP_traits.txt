@@ -27,7 +27,7 @@ leader_traits = {
 		}
 	}
 
-	JAP_marxist_leninist_sympathizer = { 
+	JAP_communist_sympathizer = { 
 		type = all
 		trait_type = personality_trait
 		gain_xp = {

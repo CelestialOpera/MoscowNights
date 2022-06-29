@@ -27,7 +27,7 @@ recruit_character = KUW_acgs
 recruit_character = KUW_nccr
 recruit_character = KUW_ncs
 recruit_character = KUW_nt
-recruit_character = KUW_marxist_leninist_guy
+recruit_character = KUW_communist_guy
 recruit_character = KUW_acr
 
 1939.1.1 = {

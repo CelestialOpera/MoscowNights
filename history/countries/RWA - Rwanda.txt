@@ -8,7 +8,7 @@ set_technology = {
 set_convoys = 0
 
 recruit_character = RWA_acd2
-recruit_character = RWA_marxist_leninist_guy
+recruit_character = RWA_communist_guy
 recruit_character = RWA_acr
 recruit_character = RWA_fascist_guy
 recruit_character = RWA_aa2

@@ -213,7 +213,7 @@ TUR_alternate_kemalist_plan = {
 
 }
 
-TUR_marxist_leninist_plan = {
+TUR_communist_plan = {
 	name = "Turkey Communist Plan"
 	desc = "Turkey will adopt a marxist_leninist government and attempt to join the Comintern."
 
@@ -307,7 +307,7 @@ TUR_marxist_leninist_plan = {
 
 }
 
-TUR_alternate_marxist_leninist_plan = {
+TUR_alternate_communist_plan = {
 	name = "Turkey Alternate Communist Plan"
 	desc = "Turkey will adopt a marxist_leninist government and attempt to form a faction of its own."
 

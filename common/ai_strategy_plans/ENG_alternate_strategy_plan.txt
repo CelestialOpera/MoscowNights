@@ -105,7 +105,7 @@ ENG_alternate_centrist_plan = {
 
 }
 
-ENG_alternate_marxist_leninist_plan = {
+ENG_alternate_communist_plan = {
 	name = "United Kingdom Communist plan"
 	desc = "UK becomes marxist_leninist and will spread the Revolution!"
 

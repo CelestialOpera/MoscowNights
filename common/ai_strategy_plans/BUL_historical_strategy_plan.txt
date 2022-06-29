@@ -58,7 +58,7 @@ BUL_historical_plan = {
 		BUL_cooperation_with_italy
 		BUL_found_the_brannik
 		#1940
-		BUL_crush_the_marxist_leninists #Short focus
+		BUL_crush_the_communists #Short focus
 		BUL_steel_plant_in_pernik
 		BUL_liberalization_of_trade_policies
 		BUL_increase_industry_investments

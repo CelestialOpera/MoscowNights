@@ -107,7 +107,7 @@ SAF_alternate_centrist = {
 
 }
 
-SAF_alternate_marxist_leninist = {
+SAF_alternate_communist = {
 	name = "South African marxist_leninist plan"
 	desc = ""
 

@@ -1,4 +1,4 @@
-RAJ_alternate_marxist_leninist = {
+RAJ_alternate_communist = {
 	name = "Raj alternate plan - marxist_leninist"
 	desc = ""
 

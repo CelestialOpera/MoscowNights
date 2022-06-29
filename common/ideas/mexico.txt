@@ -721,7 +721,7 @@ ideas = {
 		}
 		MEX_proletarian_class_army = {
 
-			picture = generic_marxist_leninist_army
+			picture = generic_communist_army
 
 			allowed = {
 				always = no

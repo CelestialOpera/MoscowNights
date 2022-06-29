@@ -1238,7 +1238,7 @@ ideas = {
 
 			name = SPR_an_army_of_all_classes
 
-			picture = generic_marxist_leninist_army
+			picture = generic_communist_army
 
 			allowed = {
 				original_tag = SPR
@@ -1258,7 +1258,7 @@ ideas = {
 
 			name = SPR_an_army_of_all_classes
 
-			picture = generic_marxist_leninist_army
+			picture = generic_communist_army
 
 			allowed = {
 				original_tag = SPR
@@ -1527,7 +1527,7 @@ ideas = {
 			}
 		}
 
-		SPR_oppose_the_marxist_leninists = {
+		SPR_oppose_the_communists = {
 
 			picture = generic_centrist_drift_bonus
 

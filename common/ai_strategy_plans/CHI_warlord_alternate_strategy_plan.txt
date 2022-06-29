@@ -49,15 +49,15 @@ CHI_warlord_alternate_plan_nationalist = {
 	}
 }
 
-CHI_warlord_alternate_plan_marxist_leninist = {
-	name = "Chinese Warlord alternate plan when cooperating with marxist_leninists"
+CHI_warlord_alternate_plan_communist = {
+	name = "Chinese Warlord alternate plan when cooperating with communists"
 	desc = "Alternate behavior for Chinese Warlord - Communist"
 
 	allowed = {
 		is_chinese_warlord = yes
 	}
 	enable = {
-		has_completed_focus = CHI_cooperation_with_the_marxist_leninists
+		has_completed_focus = CHI_cooperation_with_the_communists
 	}
 	abort = {
 		not = {

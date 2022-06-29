@@ -20,7 +20,7 @@ ideas = {
 			}
 		}
 	
-		marxist_leninist_partisans_recruiting = {
+		communist_partisans_recruiting = {
 			
 			allowed = {
 				always = no # Triggered via event
@@ -71,7 +71,7 @@ ideas = {
 			}
 		}
 
-		marxist_leninist_revolutionaries = {
+		communist_revolutionaries = {
 			
 			removal_cost = -1
 			

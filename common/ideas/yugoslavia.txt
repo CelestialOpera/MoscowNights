@@ -354,7 +354,7 @@ ideas = {
 			}
 		}
 		
-		armed_marxist_leninist_militants = {
+		armed_communist_militants = {
 			
 			picture = generic_anti_revisionist_drift_bonus
 			

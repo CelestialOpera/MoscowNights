@@ -211,7 +211,7 @@ NZL_alternate_fascist = {
 
 }
 
-NZL_alternate_marxist_leninist = {
+NZL_alternate_communist = {
 	name = "Kiwi alternate marxist_leninist plan"
 	desc = ""
 

@@ -11,7 +11,7 @@ set_technology = {
 set_convoys = 5
 
 recruit_character = KEN_acas
-recruit_character = KEN_marxist_leninist_guy
+recruit_character = KEN_communist_guy
 recruit_character = KEN_ncs
 recruit_character = KEN_awt
 recruit_character = KEN_pot

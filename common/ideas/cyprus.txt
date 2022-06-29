@@ -25,7 +25,7 @@ ideas = {
 			}
 		}
 
-		CYP_marxist_leninist_guy = {
+		CYP_communist_guy = {
 			
 			picture = generic_political_advisor_europe_3
 			
@@ -33,7 +33,7 @@ ideas = {
 				original_tag = CYP
 			}
 			
-			traits = { marxist_leninist_revolutionary }
+			traits = { communist_revolutionary }
 
 			do_effect = {
 				NOT = {

@@ -7,7 +7,7 @@ set_technology = {
 
 set_convoys = 0
 
-recruit_character = BRD_marxist_leninist_guy
+recruit_character = BRD_communist_guy
 recruit_character = BRD_aa2
 recruit_character = BRD_ar
 recruit_character = BRD_acd2

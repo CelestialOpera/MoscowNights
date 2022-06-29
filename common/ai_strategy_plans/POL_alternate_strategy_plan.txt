@@ -1,4 +1,4 @@
-POL_marxist_leninist_plan = {
+POL_communist_plan = {
 	name = "POL marxist_leninist plan"
 	desc = ""
 
@@ -320,7 +320,7 @@ POL_fascist_plan = {
 }
 
 # No Step Back
-POL_NSB_marxist_leninist_plan = {
+POL_NSB_communist_plan = {
 	name = "POL marxist_leninist plan"
 	desc = ""
 

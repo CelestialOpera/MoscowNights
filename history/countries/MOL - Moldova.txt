@@ -26,7 +26,7 @@ recruit_character = MOL_stc
 recruit_character = MOL_ncs
 recruit_character = MOL_awt
 recruit_character = MOL_mt
-recruit_character = MOL_marxist_leninist_guy
+recruit_character = MOL_communist_guy
 recruit_character = MOL_ai2
 recruit_character = MOL_ar
 

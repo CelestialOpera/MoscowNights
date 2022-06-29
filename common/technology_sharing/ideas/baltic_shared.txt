@@ -527,7 +527,7 @@ ideas = {
 			}
 		}
 
-		BALTIC_marxist_leninist_propaganda = {
+		BALTIC_communist_propaganda = {
 
 			allowed = {
 				NOT = { has_country_flag = banned_anti_revisionist_flag }
@@ -548,7 +548,7 @@ ideas = {
 			}
 		}
 
-		BALTIC_marxist_leninist_militancy = {
+		BALTIC_communist_militancy = {
 
 			allowed = {
 				always = no
@@ -658,7 +658,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = generic_marxist_leninist_army
+			picture = generic_communist_army
 
 			modifier = {
 				anti_revisionist_drift = 0.1

@@ -2021,7 +2021,7 @@ ideas = {
 
 		SOV_soviet_commandos_poum = {
 
-			picture = generic_marxist_leninist_army
+			picture = generic_communist_army
 			
 			removal_cost = -1
 			

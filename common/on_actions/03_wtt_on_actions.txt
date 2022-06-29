@@ -238,7 +238,7 @@ on_actions = {
 	#FROM is war target
 	on_declare_war = {
 		effect = {
-			#Clear any tribute and support flag if new marxist_leninists end up at war with SOV
+			#Clear any tribute and support flag if new communists end up at war with SOV
 			if = {
 				limit = { has_country_flag = WTT_support_from_soviet }
 				PRC_soviet_tribute_clear_all = yes

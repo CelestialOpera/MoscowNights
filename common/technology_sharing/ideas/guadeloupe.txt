@@ -25,7 +25,7 @@ ideas = {
 			}
 		}
 
-		GDL_marxist_leninist_guy = {
+		GDL_communist_guy = {
 			
 			picture = generic_political_advisor_african_3
 			
@@ -33,7 +33,7 @@ ideas = {
 				original_tag = GDL
 			}
 			
-			traits = { marxist_leninist_revolutionary }
+			traits = { communist_revolutionary }
 
 			do_effect = {
 				NOT = {

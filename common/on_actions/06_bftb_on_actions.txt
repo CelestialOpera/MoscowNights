@@ -470,7 +470,7 @@ on_actions = {
 					set_country_flag = GRE_factions_unlocked
 					set_variable = { var  = GRE_monarchist_loyalty value = 2 }
 					set_variable = { var  = GRE_republican_loyalty value = -1 }
-					set_variable = { var  = GRE_marxist_leninist_loyalty value = -1 }
+					set_variable = { var  = GRE_communist_loyalty value = -1 }
 					set_variable = { var  = GRE_fascist_loyalty value = -2 }
 					GRE_political_instability_update_effect = yes
 				}
@@ -601,7 +601,7 @@ on_actions = {
 					#FOCUS TREE
 					load_focus_tree = { tree = bulgarian_focus keep_completed = no }
 					unlock_national_focus = BUL_oppose_the_royal_dictatorship
-					unlock_national_focus = BUL_appoint_marxist_leninist_ministers
+					unlock_national_focus = BUL_appoint_communist_ministers
 					unlock_national_focus = BUL_unify_the_bourgeois_movement
 					unlock_national_focus = BUL_united_front_against_ultranationalist
 					unlock_national_focus = BUL_the_fatherland_front
@@ -1323,7 +1323,7 @@ on_actions = {
 					NOT = { has_completed_focus = BUL_the_fatherland_front }
 					date > 1941.6.1 #Previously date > 1940.1.1 but it felt too punishing
 				}
-				BUL_marxist_leninists_try_to_form_ff_effect = yes
+				BUL_communists_try_to_form_ff_effect = yes
 			}
 			else_if = {
 				limit = {

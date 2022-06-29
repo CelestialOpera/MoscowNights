@@ -1,7 +1,7 @@
 ### AI ###
 #BUL_is_historical_ai
-#BUL_is_marxist_leninist_stalinist_ai
-#BUL_is_marxist_leninist_balkan_ai
+#BUL_is_communist_stalinist_ai
+#BUL_is_communist_balkan_ai
 #BUL_is_centrist_socialist_ai
 #BUL_is_centrist_liberal_ai
 #BUL_is_fascist_axis_ai
@@ -1225,7 +1225,7 @@ ideas = {
 			} 
 		}
 
-		BUL_government_reforms_marxist_leninists_01 = {
+		BUL_government_reforms_communists_01 = {
 			picture = generic_political_support
 
 			allowed = {
@@ -1243,8 +1243,8 @@ ideas = {
 			} 
 		}
 
-		BUL_government_reforms_marxist_leninists_02 = {
-			name = BUL_government_reforms_marxist_leninists_01
+		BUL_government_reforms_communists_02 = {
+			name = BUL_government_reforms_communists_01
 
 			picture = generic_political_support
 
@@ -1717,7 +1717,7 @@ ideas = {
 		}
 
 		BUL_government_reforms_fascists_01 = {
-			name = BUL_government_reforms_marxist_leninists_01
+			name = BUL_government_reforms_communists_01
 
 			picture = generic_political_support
 
@@ -1737,7 +1737,7 @@ ideas = {
 		}
 
 		BUL_government_reforms_fascists_02 = {
-			name = BUL_government_reforms_marxist_leninists_01
+			name = BUL_government_reforms_communists_01
 
 			picture = FRA_market_dynamism
 
@@ -1764,7 +1764,7 @@ ideas = {
 		}
 
 		BUL_government_reforms_fascists_03 = {
-			name = BUL_government_reforms_marxist_leninists_01
+			name = BUL_government_reforms_communists_01
 
 			picture = FRA_market_dynamism
 
@@ -1807,7 +1807,7 @@ ideas = {
 		}
 
 		BUL_government_reforms_centrist_01 = {
-			name = BUL_government_reforms_marxist_leninists_01
+			name = BUL_government_reforms_communists_01
 
 			picture = generic_political_support
 
@@ -1828,7 +1828,7 @@ ideas = {
 		}
 
 		BUL_government_reforms_centrist_02 = {
-			name = BUL_government_reforms_marxist_leninists_01
+			name = BUL_government_reforms_communists_01
 
 			picture = generic_political_support
 

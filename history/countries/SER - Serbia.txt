@@ -63,7 +63,7 @@ if = {
 }
 
 recruit_character = SER_acd2
-recruit_character = SER_marxist_leninist_guy
+recruit_character = SER_communist_guy
 recruit_character = SER_acr
 recruit_character = SER_fascist_guy
 recruit_character = SER_aa2

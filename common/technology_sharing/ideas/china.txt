@@ -45,7 +45,7 @@ ideas = {
 		}
 
 		# Communist uprisings may cause states to defect to PRC
-		CHI_marxist_leninist_uprisings = {
+		CHI_communist_uprisings = {
 
 			picture = FRA_scw_intervention_republicans_focus
 		

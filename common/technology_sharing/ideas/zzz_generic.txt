@@ -179,7 +179,7 @@ ideas = {
 			}
 		}
 		
-		marxist_leninist_influence = {
+		communist_influence = {
 			
 			
 			allowed = {
@@ -260,8 +260,8 @@ ideas = {
 			}
 		}
 		
-		marxist_leninist_influence_weak = {
-			name = marxist_leninist_influence
+		communist_influence_weak = {
+			name = communist_influence
 			
 			allowed = {
 				always = no
@@ -355,7 +355,7 @@ ideas = {
 			}
 		}
 		
-		marxist_leninist_pressure = {
+		communist_pressure = {
 			
 			
 			allowed = {

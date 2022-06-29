@@ -11,7 +11,7 @@ set_convoys = 20
 
 recruit_character = TAH_pot
 recruit_character = TAH_awt
-recruit_character = TAH_marxist_leninist_guy
+recruit_character = TAH_communist_guy
 recruit_character = TAH_ncm
 recruit_character = TAH_acgs
 recruit_character = TAH_nccr

@@ -26,7 +26,7 @@ recruit_character = GNB_pot
 recruit_character = GNB_aco2
 recruit_character = GNB_aa2
 recruit_character = GNB_nt
-recruit_character = GNB_marxist_leninist_guy
+recruit_character = GNB_communist_guy
 
 1939.1.1 = {
 	

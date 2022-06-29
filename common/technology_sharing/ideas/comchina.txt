@@ -145,7 +145,7 @@ ideas = {
 
 		PRC_revolutionary_military_commission = {
 
-			picture = generic_marxist_leninist_army
+			picture = generic_communist_army
 
 			allowed = { original_tag = PRC }
 
@@ -158,7 +158,7 @@ ideas = {
 
 		PRC_central_military_commission = {
 
-			picture = generic_marxist_leninist_army
+			picture = generic_communist_army
 
 			allowed = { original_tag = PRC }
 

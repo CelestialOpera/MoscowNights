@@ -25,7 +25,7 @@ ideas = {
 			}
 		}
 
-		MOR_marxist_leninist_guy = {
+		MOR_communist_guy = {
 			
 			picture = generic_political_advisor_arab_3
 			
@@ -33,7 +33,7 @@ ideas = {
 				original_tag = MOR
 			}
 			
-			traits = { marxist_leninist_revolutionary }
+			traits = { communist_revolutionary }
 
 			do_effect = {
 				NOT = {

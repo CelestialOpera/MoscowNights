@@ -25,7 +25,7 @@ BUL_communsit_plan = {
 		BUL_cooperate_with_the_zveno #Short focus
 		BUL_acquire_modern_tools #Short focus
 		BUL_negotiate_bulgarian_rearmament #Short focus
-		BUL_appoint_marxist_leninist_ministers
+		BUL_appoint_communist_ministers
 		BUL_condemn_macedonian_organizations #Short focus
 		BUL_unify_the_bourgeois_movement
 		#1937
@@ -137,7 +137,7 @@ BUL_communsit_alternate_plan = {
 		BUL_condemn_macedonian_organizations #Short focus
 		BUL_acquire_modern_tools #Short focus
 		BUL_negotiate_bulgarian_rearmament #Short focus
-		BUL_appoint_marxist_leninist_ministers
+		BUL_appoint_communist_ministers
 		BUL_improve_the_road_system
 		#1937
 		BUL_unify_the_bourgeois_movement
@@ -259,7 +259,7 @@ BUL_fascist_axis_plan = {
 		#1939
 		BUL_military_dictatorship
 		BUL_approach_germany
-		BUL_crush_the_marxist_leninists #Short focus
+		BUL_crush_the_communists #Short focus
 		BUL_darzhavna_voenna_fabrika
 		BUL_cooperation_with_italy
 		BUL_industrial_autarky
@@ -377,7 +377,7 @@ BUL_the_return_of_ferdinand_plan = {
 		BUL_war_logistics
 		BUL_restrained_paramilitary_organizations
 		BUL_the_fate_of_the_balkans #Short focus
-		BUL_crush_the_marxist_leninists #Short focus
+		BUL_crush_the_communists #Short focus
 		#1941
 		BUL_nationalist_propaganda
 		BUL_increase_industry_investments
@@ -520,7 +520,7 @@ BUL_centrist_socialist = {
 
 	focus_factors = {
 		BUL_power_to_the_tsar = 0
-		BUL_appoint_marxist_leninist_ministers = 0
+		BUL_appoint_communist_ministers = 0
 		BUL_seek_cooperation_with_the_tsar = 0
 		BUL_support_macedonian_organizations = 0
 		BUL_dissolve_the_military_union = 0
@@ -638,7 +638,7 @@ BUL_centrist_liberal = {
 
 	focus_factors = {
 		BUL_power_to_the_tsar = 0
-		BUL_appoint_marxist_leninist_ministers = 0
+		BUL_appoint_communist_ministers = 0
 		BUL_legalize_the_agrarian_party = 0
 		BUL_support_macedonian_organizations = 0
 		BUL_cooperate_with_the_zveno = 0

@@ -9,7 +9,7 @@ set_technology = {
 
 set_convoys = 5
 
-recruit_character = BLZ_marxist_leninist_guy
+recruit_character = BLZ_communist_guy
 recruit_character = BLZ_aa2
 recruit_character = BLZ_ar
 recruit_character = BLZ_acd2

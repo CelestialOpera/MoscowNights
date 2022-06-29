@@ -274,7 +274,7 @@ ideas = {
 				original_tag = HUN
 				always = no
 			}
-			picture = generic_marxist_leninist_army
+			picture = generic_communist_army
 
 			modifier = {
 				conscription = 0.05

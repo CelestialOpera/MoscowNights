@@ -1867,7 +1867,7 @@ on_actions = {
 					25 = {
 				        # defections
 				        country_event = {
-				        	id = NSB_soviet_marxist_leninist_civil_war.010
+				        	id = NSB_soviet_communist_civil_war.010
 				        	hours = 1
 				        }
 				    }

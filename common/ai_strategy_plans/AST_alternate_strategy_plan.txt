@@ -233,7 +233,7 @@ AST_alternate_fascist = {
 
 }
 
-AST_alternate_marxist_leninist = {
+AST_alternate_communist = {
 	name = "Australia goes marxist_leninist"
 	desc = ""
 

@@ -25,7 +25,7 @@ ideas = {
 			}
 		}
 
-		SOM_marxist_leninist_guy = {
+		SOM_communist_guy = {
 			
 			picture = generic_political_advisor_african_3
 			
@@ -33,7 +33,7 @@ ideas = {
 				original_tag = SOM
 			}
 			
-			traits = { marxist_leninist_revolutionary }
+			traits = { communist_revolutionary }
 
 			do_effect = {
 				NOT = {

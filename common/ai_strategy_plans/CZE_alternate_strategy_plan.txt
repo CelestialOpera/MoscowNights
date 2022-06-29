@@ -90,7 +90,7 @@ CZE_alternate_strategy_plan_entente = {
 
 }
 
-CZE_alternate_strategy_plan_marxist_leninist = {
+CZE_alternate_strategy_plan_communist = {
 	name = "CZE aims to be a good little people's republic"
 	desc = "Let's all be comrades!"
 
@@ -120,7 +120,7 @@ CZE_alternate_strategy_plan_marxist_leninist = {
 		CZE_balanced_3
 		CZE_united_population
 		CZE_military_research_institute
-		CZE_marxist_leninist_support
+		CZE_communist_support
 		CZE_arms_exports_1
 		CZE_czech_democratic_socialist_ideology
 		CZE_arms_exports_2

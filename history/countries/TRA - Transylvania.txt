@@ -81,7 +81,7 @@ set_popularities = {
 
 recruit_character = TRA_pot
 recruit_character = TRA_awt
-recruit_character = TRA_marxist_leninist_guy
+recruit_character = TRA_communist_guy
 recruit_character = TRA_ncm
 recruit_character = TRA_acgs
 recruit_character = TRA_nccr

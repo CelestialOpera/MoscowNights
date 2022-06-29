@@ -442,7 +442,7 @@ ideas = {
 			}
 		}
 
-		CAN_marxist_leninist_ideals = {
+		CAN_communist_ideals = {
 			allowed = {
 				always = no
 			}
@@ -461,7 +461,7 @@ ideas = {
 			}
 		}
 
-		CAN_marxist_leninist_ideals_2 = {
+		CAN_communist_ideals_2 = {
 			allowed = {
 				always = no
 			}
@@ -482,7 +482,7 @@ ideas = {
 			}
 		}
 
-		CAN_marxist_leninist_ideals_3 = {
+		CAN_communist_ideals_3 = {
 			allowed = {
 				always = no
 			}

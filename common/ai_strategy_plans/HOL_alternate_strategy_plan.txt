@@ -265,7 +265,7 @@ HOL_lead_the_minor_democracies_centrist_plan = {
 
 }
 
-HOL_alternate_marxist_leninist_plan = {
+HOL_alternate_communist_plan = {
 	name = "Netherlands Communist plan"
 	desc = "Netherlands will become marxist_leninist and build up on the continent rather than their colonies."
 

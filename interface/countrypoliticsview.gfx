@@ -492,7 +492,7 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_ideology_marxist_leninist_group"
+		name = "GFX_ideology_communist_group"
 		texturefile = "gfx/interface/ideologies/CommunistICON.dds"
 	}
 	

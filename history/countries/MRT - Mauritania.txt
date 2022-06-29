@@ -9,7 +9,7 @@ set_convoys = 20
 
 recruit_character = MRT_pot
 recruit_character = MRT_awt
-recruit_character = MRT_marxist_leninist_guy
+recruit_character = MRT_communist_guy
 recruit_character = MRT_ncm
 recruit_character = MRT_acgs
 recruit_character = MRT_nccr

@@ -243,7 +243,7 @@ CAN_fascist = {
 
 }
 
-CAN_marxist_leninist = {
+CAN_communist = {
 	name = "Canada goes marxist_leninist"
 	desc = "They are very sorry about that"
 
@@ -285,7 +285,7 @@ CAN_marxist_leninist = {
 		#1939
 		CAN_destroyer_effort							
 		CAN_we_have_the_hurricane						
-		CAN_marxist_leninist_labor_total_war_committee
+		CAN_communist_labor_total_war_committee
 		CAN_victory_aircraft_limited
 		CAN_supply_the_red_army					
 		#1940

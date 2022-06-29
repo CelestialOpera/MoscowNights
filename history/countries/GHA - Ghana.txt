@@ -8,7 +8,7 @@ set_technology = {
 set_convoys = 15
 
 recruit_character = GHA_acd2
-recruit_character = GHA_marxist_leninist_guy
+recruit_character = GHA_communist_guy
 recruit_character = GHA_acr
 recruit_character = GHA_fascist_guy
 recruit_character = GHA_aa2

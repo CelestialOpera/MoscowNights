@@ -9,7 +9,7 @@ set_convoys = 0
 
 recruit_character = UGA_aco2
 recruit_character = UGA_nt
-recruit_character = UGA_marxist_leninist_guy
+recruit_character = UGA_communist_guy
 recruit_character = UGA_pot
 recruit_character = UGA_acas
 recruit_character = UGA_acr

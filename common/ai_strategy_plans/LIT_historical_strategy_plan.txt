@@ -44,7 +44,7 @@ LIT_historical = {
 		LIT_presidential_reform
 		LIT_soviet_mutual_assistance
 		LIT_arrest_nazis_in_memel
-		LIT_anti_marxist_leninist_militia
+		LIT_anti_communist_militia
 		LIT_victory_in_trust
 		LIT_a_corporatist_economy
 		LIT_expand_military_budget
@@ -139,7 +139,7 @@ LIT_centrist = {
 		LIT_presidential_reform
 		LIT_peace_with_poland
 		LIT_arrest_nazis_in_memel
-		LIT_anti_marxist_leninist_militia
+		LIT_anti_communist_militia
 		LIT_strength_in_unity
 		LIT_reminder_of_true_enemy
 		LIT_restore_public_elections

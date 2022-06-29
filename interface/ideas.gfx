@@ -442,8 +442,8 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_idea_generic_marxist_leninist_army"
-		texturefile = "gfx/interface/ideas/idea_generic_marxist_leninist_army.dds"
+		name = "GFX_idea_generic_communist_army"
+		texturefile = "gfx/interface/ideas/idea_generic_communist_army.dds"
 	}
 	
 	spriteType = {
@@ -707,8 +707,8 @@ spriteTypes = {
 	## WESTERN EUROPEAN CULTURE ##
 
 	spriteType = {
-		name = "GFX_idea_generic_marxist_leninist_revolutionary_western_european_2d"
-		texturefile = "gfx/interface/ideas/idea_generic_marxist_leninist_europe.dds"
+		name = "GFX_idea_generic_communist_revolutionary_western_european_2d"
+		texturefile = "gfx/interface/ideas/idea_generic_communist_europe.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_generic_democratic_reformer_western_european_2d"
@@ -791,8 +791,8 @@ spriteTypes = {
 	## COMMONWEALTH CULTURE ##
 
 	spriteType = {
-		name = "GFX_idea_generic_marxist_leninist_revolutionary_commonwealth_2d"
-		texturefile = "gfx/interface/ideas/idea_generic_marxist_leninist_europe.dds"
+		name = "GFX_idea_generic_communist_revolutionary_commonwealth_2d"
+		texturefile = "gfx/interface/ideas/idea_generic_communist_europe.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_generic_democratic_reformer_commonwealth_2d"
@@ -874,8 +874,8 @@ spriteTypes = {
 	## EASTERN EUROPEAN CULTURE ##
 
 	spriteType = {
-		name = "GFX_idea_generic_marxist_leninist_revolutionary_eastern_european_2d"
-		texturefile = "gfx/interface/ideas/idea_generic_marxist_leninist_europe.dds"
+		name = "GFX_idea_generic_communist_revolutionary_eastern_european_2d"
+		texturefile = "gfx/interface/ideas/idea_generic_communist_europe.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_generic_democratic_reformer_eastern_european_2d"
@@ -2858,8 +2858,8 @@ spriteTypes = {
 
 	
 	spriteType = {
-		name = "GFX_idea_generic_marxist_leninist_revolutionary_asian_2d"
-		texturefile = "gfx/interface/ideas/idea_generic_marxist_leninist_asia.dds"
+		name = "GFX_idea_generic_communist_revolutionary_asian_2d"
+		texturefile = "gfx/interface/ideas/idea_generic_communist_asia.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_generic_democratic_reformer_asian_2d"
@@ -3009,8 +3009,8 @@ spriteTypes = {
 	### suffix from graphicalculturetype
 
 	spriteType = {
-		name = "GFX_idea_generic_marxist_leninist_revolutionary_southamerican_2d"
-		texturefile = "gfx/interface/ideas/idea_generic_marxist_leninist_south_america.dds"
+		name = "GFX_idea_generic_communist_revolutionary_southamerican_2d"
+		texturefile = "gfx/interface/ideas/idea_generic_communist_south_america.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_generic_democratic_reformer_southamerican_2d"
@@ -3152,8 +3152,8 @@ spriteTypes = {
 	### suffix from graphicalculturetype
 
 	spriteType = {
-		name = "GFX_idea_generic_marxist_leninist_revolutionary_middle_eastern_2d"
-		texturefile = "gfx/interface/ideas/idea_generic_marxist_leninist_arab.dds"
+		name = "GFX_idea_generic_communist_revolutionary_middle_eastern_2d"
+		texturefile = "gfx/interface/ideas/idea_generic_communist_arab.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_generic_democratic_reformer_middle_eastern_2d"
@@ -3289,8 +3289,8 @@ spriteTypes = {
 ### suffix from graphicalculturetype
 
 	spriteType = {
-		name = "GFX_idea_generic_marxist_leninist_revolutionary_african_2d"
-		texturefile = "gfx/interface/ideas/idea_generic_marxist_leninist_africa.dds"
+		name = "GFX_idea_generic_communist_revolutionary_african_2d"
+		texturefile = "gfx/interface/ideas/idea_generic_communist_africa.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_generic_democratic_reformer_african_2d"

@@ -286,7 +286,7 @@ ideas = {
 		}
 
 		POR_unified_youth_wings = {
-			picture = generic_marxist_leninist_army
+			picture = generic_communist_army
 			allowed = {
 				original_tag = POR
 			}

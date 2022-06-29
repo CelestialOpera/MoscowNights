@@ -600,7 +600,7 @@ ideas = {
 			}
 		}
 
-		GER_expatriate_the_marxist_leninists = {
+		GER_expatriate_the_communists = {
 			allowed = {
 				always = no
 			}
@@ -618,7 +618,7 @@ ideas = {
 			}
 		}
 
-		GER_marxist_leninist_refugees = {
+		GER_communist_refugees = {
 			allowed = {
 				always = no
 			}

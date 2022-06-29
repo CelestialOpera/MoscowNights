@@ -1061,7 +1061,7 @@ ideas = {
 
 		}
 
-		ENG_dominion_marxist_leninist_propaganda = {
+		ENG_dominion_communist_propaganda = {
 
 			allowed = {
 				always = no

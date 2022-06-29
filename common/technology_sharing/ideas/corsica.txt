@@ -25,7 +25,7 @@ ideas = {
 			}
 		}
 
-		COR_marxist_leninist_guy = {
+		COR_communist_guy = {
 			
 			picture = generic_political_advisor_asia_3
 			
@@ -33,7 +33,7 @@ ideas = {
 				original_tag = COR
 			}
 			
-			traits = { marxist_leninist_revolutionary }
+			traits = { communist_revolutionary }
 
 			do_effect = {
 				NOT = {
@@ -54,7 +54,7 @@ ideas = {
 				original_tag = COR
 			}
 			
-			traits = { marxist_leninist_revolutionary }
+			traits = { communist_revolutionary }
 
 			do_effect = {
 				NOT = {

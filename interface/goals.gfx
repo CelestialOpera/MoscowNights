@@ -1193,8 +1193,8 @@ spriteTypes = {
 	}
 	
 	SpriteType = { 
-		name = "GFX_focus_chi_cooperation_with_the_marxist_leninists"
-		texturefile = "gfx/interface/goals/focus_chi_cooperation_with_the_marxist_leninists.dds"
+		name = "GFX_focus_chi_cooperation_with_the_communists"
+		texturefile = "gfx/interface/goals/focus_chi_cooperation_with_the_communists.dds"
 	}
 	
 	### MAN
@@ -1991,13 +1991,13 @@ spriteTypes = {
 	}
 
 	SpriteType = { 
-		name = "GFX_focus_generic_attack_marxist_leninist_spain_focus"
-		texturefile = "gfx/interface/goals/focus_generic_attack_marxist_leninist_spain_focus.dds"
+		name = "GFX_focus_generic_attack_communist_spain_focus"
+		texturefile = "gfx/interface/goals/focus_generic_attack_communist_spain_focus.dds"
 	}
 
 	SpriteType = { 
-		name = "GFX_focus_generic_befriend_marxist_leninist_spain_focus"
-		texturefile = "gfx/interface/goals/focus_generic_befriend_marxist_leninist_spain_focus.dds"
+		name = "GFX_focus_generic_befriend_communist_spain_focus"
+		texturefile = "gfx/interface/goals/focus_generic_befriend_communist_spain_focus.dds"
 	}
 
 	SpriteType = { 

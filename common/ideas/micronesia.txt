@@ -25,7 +25,7 @@ ideas = {
 			}
 		}
 
-		FSM_marxist_leninist_guy = {
+		FSM_communist_guy = {
 			
 			picture = generic_political_advisor_asia_3
 			
@@ -33,7 +33,7 @@ ideas = {
 				original_tag = FSM
 			}
 			
-			traits = { marxist_leninist_revolutionary }
+			traits = { communist_revolutionary }
 
 			do_effect = {
 				NOT = {

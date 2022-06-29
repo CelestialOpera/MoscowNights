@@ -457,7 +457,7 @@ USA_fascist = {
 
 }
 
-USA_marxist_leninist = {
+USA_communist = {
 	name = "US Communist Plan"
 	desc = "Plan for the US to go Communist"
 
@@ -518,7 +518,7 @@ USA_marxist_leninist = {
 		earl_browder = 10
 	}
 	traits = {
-		marxist_leninist_revolutionary = 15
+		communist_revolutionary = 15
 		
 	}
 

@@ -13,7 +13,7 @@ PRC_default_plan = {
 			original_tag = PRC
 			AND = {
 				is_chinese_warlord = yes
-				has_focus_tree = china_marxist_leninist_focus
+				has_focus_tree = china_communist_focus
 			}
 		}
 	}
@@ -67,8 +67,8 @@ PRC_ally_CHI = {
 			AND = {
 				is_chinese_warlord = yes
 				OR = {
-					has_focus_tree = china_marxist_leninist_focus
-					has_completed_focus = CHI_cooperation_with_the_marxist_leninists
+					has_focus_tree = china_communist_focus
+					has_completed_focus = CHI_cooperation_with_the_communists
 				}
 			}
 		}

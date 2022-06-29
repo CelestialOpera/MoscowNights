@@ -187,7 +187,7 @@ ROM_dominance = {
 
 }
 
-ROM_marxist_leninist = {
+ROM_communist = {
 	name = "Romanian plan to side with SOV"
 	desc = ""
 

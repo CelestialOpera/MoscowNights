@@ -6657,11 +6657,11 @@ spriteTypes = {
 	}	
 	
 	SpriteType = {
-		name = "GFX_focus_chi_cooperation_with_the_marxist_leninists_shine"
-		texturefile = "gfx/interface/goals/focus_chi_cooperation_with_the_marxist_leninists.dds"
+		name = "GFX_focus_chi_cooperation_with_the_communists_shine"
+		texturefile = "gfx/interface/goals/focus_chi_cooperation_with_the_communists.dds"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/focus_chi_cooperation_with_the_marxist_leninists.dds"
+			animationmaskfile = "gfx/interface/goals/focus_chi_cooperation_with_the_communists.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
 			animationrotation = -90.0		# -90 clockwise 90 counterclockwise(by default)
 			animationlooping = no			# yes or no ;)
@@ -6674,7 +6674,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/focus_chi_cooperation_with_the_marxist_leninists.dds"
+			animationmaskfile = "gfx/interface/goals/focus_chi_cooperation_with_the_communists.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
 			animationrotation = 90.0		# -90 clockwise 90 counterclockwise(by default)
 			animationlooping = no			# yes or no ;)
@@ -12241,11 +12241,11 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_focus_generic_attack_marxist_leninist_spain_shine"
-		texturefile = "gfx/interface/goals/focus_generic_attack_marxist_leninist_spain.dds"
+		name = "GFX_focus_generic_attack_communist_spain_shine"
+		texturefile = "gfx/interface/goals/focus_generic_attack_communist_spain.dds"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/focus_generic_attack_marxist_leninist_spain.dds"
+			animationmaskfile = "gfx/interface/goals/focus_generic_attack_communist_spain.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
 			animationrotation = -90.0		# -90 clockwise 90 counterclockwise(by default)
 			animationlooping = no			# yes or no ;)
@@ -12258,7 +12258,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/focus_generic_attack_marxist_leninist_spain.dds"
+			animationmaskfile = "gfx/interface/goals/focus_generic_attack_communist_spain.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
 			animationrotation = 90.0		# -90 clockwise 90 counterclockwise(by default)
 			animationlooping = no			# yes or no ;)
@@ -12273,11 +12273,11 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_focus_generic_befriend_marxist_leninist_spain_shine"
-		texturefile = "gfx/interface/goals/focus_generic_befriend_marxist_leninist_spain.dds"
+		name = "GFX_focus_generic_befriend_communist_spain_shine"
+		texturefile = "gfx/interface/goals/focus_generic_befriend_communist_spain.dds"
 				effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/focus_generic_befriend_marxist_leninist_spain.dds"
+			animationmaskfile = "gfx/interface/goals/focus_generic_befriend_communist_spain.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
 			animationrotation = -90.0		# -90 clockwise 90 counterclockwise(by default)
 			animationlooping = no			# yes or no ;)
@@ -12290,7 +12290,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/focus_generic_befriend_marxist_leninist_spain.dds"
+			animationmaskfile = "gfx/interface/goals/focus_generic_befriend_communist_spain.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds" 	# <- the animated file
 			animationrotation = 90.0		# -90 clockwise 90 counterclockwise(by default)
 			animationlooping = no			# yes or no ;)

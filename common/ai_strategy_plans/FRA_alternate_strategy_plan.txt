@@ -15,7 +15,7 @@ FRA_alternate_plan_1 = {
 	abort = {
 		OR = {
 			GER = { has_completed_focus = GER_reestablish_free_elections }
-			GER = { has_completed_focus = GER_expatriate_the_marxist_leninists }
+			GER = { has_completed_focus = GER_expatriate_the_communists }
 			GER = { has_completed_focus = GER_focus_on_the_true_enemy }
 		}
 	}
@@ -170,7 +170,7 @@ FRA_alternate_plan_3_regular = {
 		NOT = { has_dlc = "La Resistance" }
 	}
 	enable = {
-		GER = { has_completed_focus = GER_expatriate_the_marxist_leninists }
+		GER = { has_completed_focus = GER_expatriate_the_communists }
 		has_game_rule = {
 			rule = FRA_ai_behavior
 			option = DEFAULT
@@ -243,7 +243,7 @@ FRA_alternate_plan_3_lar = {
 		has_dlc = "La Resistance"
 	}
 	enable = {
-		GER = { has_completed_focus = GER_expatriate_the_marxist_leninists }
+		GER = { has_completed_focus = GER_expatriate_the_communists }
 		has_game_rule = {
 			rule = FRA_ai_behavior
 			option = DEFAULT
@@ -254,7 +254,7 @@ FRA_alternate_plan_3_lar = {
 
 	ai_national_focuses = {
 		FRA_form_the_popular_front
-		FRA_invite_marxist_leninist_ministers
+		FRA_invite_communist_ministers
 		FRA_reform_the_labour_laws
 		FRA_strengthen_the_unions
 		FRA_womens_suffrage
@@ -667,7 +667,7 @@ FRA_alternate_plan_fascist_lar = {
 	}
 }
 
-FRA_alternate_plan_marxist_leninist_regular = {
+FRA_alternate_plan_communist_regular = {
 	name = "France alternate plan: France is going marxist_leninist"
 	desc = ""
 
@@ -731,7 +731,7 @@ FRA_alternate_plan_marxist_leninist_regular = {
 	}
 }
 
-FRA_alternate_plan_marxist_leninist_lar = {
+FRA_alternate_plan_communist_lar = {
 	name = "France alternate plan: France is going marxist_leninist"
 	desc = ""
 
@@ -756,7 +756,7 @@ FRA_alternate_plan_marxist_leninist_lar = {
 		FRA_devalue_the_franc
 		FRA_form_the_popular_front
 		FRA_reform_the_labour_laws
-		FRA_invite_marxist_leninist_ministers
+		FRA_invite_communist_ministers
 		FRA_invest_in_the_metropole
 		#1937
 		FRA_invest_in_the_colonies

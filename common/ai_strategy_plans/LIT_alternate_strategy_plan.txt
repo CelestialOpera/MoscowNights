@@ -39,7 +39,7 @@ LIT_fascist = {
 		LIT_patriotic_education
 		LIT_soviet_mutual_assistance
 		LIT_unify_the_military
-		LIT_anti_marxist_leninist_militia
+		LIT_anti_communist_militia
 		LIT_lithuanian_youth
 		LIT_arrest_nazis_in_memel
 		BALTIC_attract_workers_to_capital
@@ -134,7 +134,7 @@ LIT_monarchist = {
 		LIT_abolish_the_presidency
 		LIT_support_monarchism_in_POL
 		LIT_claim_livonia_monarchy
-		LIT_anti_marxist_leninist_militia
+		LIT_anti_communist_militia
 		LIT_a_corporatist_economy
 		LIT_lithuanian_activist_front
 		LIT_king_of_poland

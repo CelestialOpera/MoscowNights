@@ -375,7 +375,7 @@ POR_centrist_plan = {
 	}
 }
 
-POR_marxist_leninist_comintern_plan = {
+POR_communist_comintern_plan = {
 	name = "The Socialist Republic of Portugal"
 	desc = "Portugal will align itself towards the Soviet Union, supporting the Spanish Republic and attempting to join the Comintern."
 
@@ -407,7 +407,7 @@ POR_marxist_leninist_comintern_plan = {
 		POR_nation_in_arms
 		POR_nationalize_industry
 		POR_unify_leftist_youth_wings
-		POR_reorganization_of_the_marxist_leninist_party
+		POR_reorganization_of_the_communist_party
 		#1938
 		POR_visit_the_front
 		POR_they_need_our_help
@@ -468,7 +468,7 @@ POR_marxist_leninist_comintern_plan = {
 	}
 }
 
-POR_marxist_leninist_independent_plan = {
+POR_communist_independent_plan = {
 	name = "United European Socialist Republics"
 	desc = "Communists will overturn the government and fight against the Spanish Nationalists during the Spanish Civil War, unifying the Iberian Peninsula as the United European Socialist Republics, the last European bastion against ultranationalist."
 
@@ -512,7 +512,7 @@ POR_marxist_leninist_independent_plan = {
 		POR_portuguese_artillery	
 		POR_military_research_facilities
 		POR_unify_leftist_youth_wings
-		POR_reorganization_of_the_marxist_leninist_party
+		POR_reorganization_of_the_communist_party
 		#1940
 		POR_the_iberian_socialist_union
 		POR_a_powerful_merchant_marine

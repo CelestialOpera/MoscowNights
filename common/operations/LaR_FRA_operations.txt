@@ -146,12 +146,12 @@ FRA_instigate_workers_revolution_britain = { ### 1/25
 		infiltration_diplomatic = { base = 33 } 
 	}
 	phases = { 
-		lar_marxist_leninist_uprising_organise_cells = { base = 33 }
-		lar_marxist_leninist_uprising_infiltrate_civil_service = { base = 33 }
-		lar_marxist_leninist_uprising_organize_strikes = { base = 33 }
+		lar_communist_uprising_organise_cells = { base = 33 }
+		lar_communist_uprising_infiltrate_civil_service = { base = 33 }
+		lar_communist_uprising_organize_strikes = { base = 33 }
 	}
 	phases = { 
-		lar_marxist_leninist_uprising_train_workers_militia = { base = 25 }
+		lar_communist_uprising_train_workers_militia = { base = 25 }
 	}
 }
 
@@ -272,12 +272,12 @@ FRA_instigate_workers_revolution_italy = { ### 1/25
 		infiltration_diplomatic = { base = 33 } 
 	}
 	phases = { 
-		lar_marxist_leninist_uprising_organise_cells = { base = 33 }
-		lar_marxist_leninist_uprising_infiltrate_civil_service = { base = 33 }
-		lar_marxist_leninist_uprising_organize_strikes = { base = 33 }
+		lar_communist_uprising_organise_cells = { base = 33 }
+		lar_communist_uprising_infiltrate_civil_service = { base = 33 }
+		lar_communist_uprising_organize_strikes = { base = 33 }
 	}
 	phases = { 
-		lar_marxist_leninist_uprising_train_workers_militia = { base = 25 }
+		lar_communist_uprising_train_workers_militia = { base = 25 }
 	}
 }
 
@@ -398,12 +398,12 @@ FRA_instigate_workers_revolution_germany = { ### 1/25
 		infiltration_diplomatic = { base = 33 } 
 	}
 	phases = { 
-		lar_marxist_leninist_uprising_organise_cells = { base = 33 }
-		lar_marxist_leninist_uprising_infiltrate_civil_service = { base = 33 }
-		lar_marxist_leninist_uprising_organize_strikes = { base = 33 }
+		lar_communist_uprising_organise_cells = { base = 33 }
+		lar_communist_uprising_infiltrate_civil_service = { base = 33 }
+		lar_communist_uprising_organize_strikes = { base = 33 }
 	}
 	phases = { 
-		lar_marxist_leninist_uprising_train_workers_militia = { base = 25 }
+		lar_communist_uprising_train_workers_militia = { base = 25 }
 	}
 }
 

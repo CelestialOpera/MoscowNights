@@ -13,7 +13,7 @@ PRC_alternate_plan_1 = {
 			original_tag = PRC
 			AND = {
 				is_chinese_warlord = yes
-				has_focus_tree = china_marxist_leninist_focus
+				has_focus_tree = china_communist_focus
 			}
 		}
 		has_game_rule = {
@@ -82,7 +82,7 @@ PRC_alternate_plan_2 = {
 			original_tag = PRC
 			AND = {
 				is_chinese_warlord = yes
-				has_focus_tree = china_marxist_leninist_focus
+				has_focus_tree = china_communist_focus
 			}
 		}
 		OR = {
@@ -155,7 +155,7 @@ PRC_alternate_plan_3 = {
 			original_tag = PRC
 			AND = {
 				is_chinese_warlord = yes
-				has_focus_tree = china_marxist_leninist_focus
+				has_focus_tree = china_communist_focus
 			}
 		}
 		OR = {

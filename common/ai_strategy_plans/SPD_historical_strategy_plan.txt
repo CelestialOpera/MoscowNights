@@ -50,7 +50,7 @@ SPD_historical_plan = {
 		SPR_no_pasaran
 		SPR_strengthen_the_anti_fascist_coalition
 		SPR_a_frontline_suited_for_intellectuals
-		SPR_oppose_the_marxist_leninists
+		SPR_oppose_the_communists
 		SPR_fortify_the_central_government
 	}
 

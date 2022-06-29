@@ -15,7 +15,7 @@ spanish_civil_war_GER_expatriate = {
 		NOT = { has_dlc = "La Resistance" }
 	}
 	enable = {
-		GER = { has_completed_focus = GER_expatriate_the_marxist_leninists }
+		GER = { has_completed_focus = GER_expatriate_the_communists }
 		NOT = { has_government = ultranationalist }
 		SPR = { has_civil_war = yes }
 		NOT = { has_global_flag = scw_over }
@@ -38,7 +38,7 @@ spanish_civil_war_GER_expatriate = {
 spanish_civil_war_GER_expatriate_resistance = {
 	allowed = { has_dlc = "La Resistance" }
 	enable = {
-		GER = { has_completed_focus = GER_expatriate_the_marxist_leninists }
+		GER = { has_completed_focus = GER_expatriate_the_communists }
 		NOT = { has_government = ultranationalist }
 		SPD = { has_civil_war = yes }
 		NOT = { has_global_flag = scw_over }

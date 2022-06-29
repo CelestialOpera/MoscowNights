@@ -15,7 +15,7 @@ ITA_alternate_plan_1 = {
 	abort = {
 		OR = {
 			GER = { has_completed_focus = GER_reestablish_free_elections }
-			GER = { has_completed_focus = GER_expatriate_the_marxist_leninists }
+			GER = { has_completed_focus = GER_expatriate_the_communists }
 			GER = { has_completed_focus = GER_assassinate_mussolini }
 		}
 	}
@@ -263,7 +263,7 @@ ITA_alternate_plan_4 = {
 					}
 				}
 			}
-			GER = { has_completed_focus = GER_expatriate_the_marxist_leninists }
+			GER = { has_completed_focus = GER_expatriate_the_communists }
 		}
 	}
 	abort = {

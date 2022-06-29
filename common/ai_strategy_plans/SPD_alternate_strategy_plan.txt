@@ -52,7 +52,7 @@ SPD_alternate_plan = {
 		SPR_soviet_industrial_aid
 		SPR_soviet_technological_advancements
 		SPR_strengthen_the_anti_fascist_coalition
-		SPR_oppose_the_marxist_leninists
+		SPR_oppose_the_communists
 		SPR_fortify_the_central_government
 		SPR_soviet_recovery_aid
 		SPR_secure_centrist_principles
@@ -152,7 +152,7 @@ SPD_alternate_plan_2 = {
 		SPR_appeal_for_increased_autonomy
 		SPR_modernize_the_armed_forces
 		SPR_a_red_iberia
-		SPR_support_french_marxist_leninists
+		SPR_support_french_communists
 	}
 
 	research = {
