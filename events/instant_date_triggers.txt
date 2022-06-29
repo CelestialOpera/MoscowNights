@@ -1,0 +1,86 @@
+add_namespace = exact_date_trigger
+
+#Dec 15th, 1991
+country_event = {
+	id = exact_date_trigger.1
+	hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		date > 1991.12.15
+	}
+	
+	#Example From OLD FOAU Files
+	#option = {
+	#	##French Lore Event
+	#	if = {
+	#		limit = { 
+	#			country_exists = FRA
+	#		}
+	#		FRA = { country_event = france.1 }
+	#	}
+	#	
+	#	set_global_flag = Super_Event_Visible
+	#}
+}
+
+#Dec 18th, 1991
+country_event = {
+	id = exact_date_trigger.3
+	hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		date > 1991.12.17
+	}
+	
+	option = {
+		
+	}
+}
+
+#Dec 19th, 1991
+country_event = {
+	id = exact_date_trigger.4
+	hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		date > 1991.12.18
+	}
+	
+	option = {
+		
+	}
+}
+
+#Dec 25th, 1991
+country_event = {
+	id = exact_date_trigger.9
+	hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		date > 1991.12.24
+	}
+	
+	option = {
+		
+	}
+}
+
+
+#Jan 04th, 1992
+country_event = {
+	id = exact_date_trigger.18
+	hidden = yes
+	fire_only_once = yes
+	
+	trigger = {
+		date > 1992.01.03
+	}
+	
+	option = {
+		
+	}
+}

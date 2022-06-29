@@ -1,0 +1,35 @@
+
+state = {
+	id = 847
+	name = "STATE_847"
+	manpower = 247831
+	
+	state_category = town
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+		victory_points = {
+			13241 10
+		}
+		buildings = {
+			13241 = {
+				naval_base = 4
+
+			}
+			13242 = {
+				naval_base = 2
+
+			}
+			
+			infrastructure = 3
+		}
+		
+	}
+
+	provinces = {
+		13241 13242
+	}
+
+	local_supplies = 6.0 
+}

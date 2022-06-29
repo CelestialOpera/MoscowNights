@@ -1,0 +1,30 @@
+﻿capital = 707
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = national_conservative
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	marxist_leninist = 0
+	neo_socialist = 100
+	neo_socialist = 0
+	democratic_socialist = 0
+	progressive = 0
+	liberal = 0
+	centrist = 0
+	new_democracy = 0
+	national_conservative = 0
+	neo_authoritarian = 0
+	ultranationalist = 0
+}

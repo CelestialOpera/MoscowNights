@@ -1,0 +1,12 @@
+soundeffect =
+{
+	name = "DEVESTATION_sound"
+	volume = 1
+	sounds = {
+		sound = "DEVESTATION"
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
+

@@ -1,0 +1,29 @@
+
+state = {
+	id = 850
+	name = "STATE_850"
+	manpower = 95243
+	
+	state_category = small_island
+
+	history = {
+		owner = TON
+		add_core_of = TON
+		victory_points = {
+			13243 10
+		}
+		buildings = {
+			infrastructure = 3
+			13243 = {
+				naval_base = 1
+			}
+		}
+		
+	}
+
+	provinces = {
+		13243
+	}
+
+	local_supplies = 6.0 
+}

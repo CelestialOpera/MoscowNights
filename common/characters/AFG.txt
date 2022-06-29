@@ -1,0 +1,16 @@
+characters = {
+	AFG_Mohammad_Najibullah = {
+		name = "Mohammad Najibullah" 
+		portraits = {
+			civilian={
+				large="gfx/leaders/AFG/Mohammad_Najibullah.dds"
+			}
+		}
+		country_leader = {
+			ideology = democratic_socialist_ideology
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

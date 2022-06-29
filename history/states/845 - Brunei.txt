@@ -1,0 +1,31 @@
+
+state = {
+	id = 845
+	name = "STATE_845"
+	manpower = 38000
+	resources={
+		rubber=6
+	}
+	state_category = city
+
+	history = {
+		owner = BRN
+		add_core_of = BRN
+		victory_points = {
+			7371 10
+		}
+		buildings = {
+			7371 = {
+				naval_base = 2
+			}
+			infrastructure = 5
+		}
+		
+	}
+
+	provinces = {
+		7371
+	}
+
+	local_supplies = 6.0 
+}

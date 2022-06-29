@@ -1,0 +1,26 @@
+
+state = {
+	id = 848
+	name = "STATE_848"
+	manpower = 1996000
+	
+	state_category = large_town
+
+	history = {
+		owner = LES
+		add_core_of = LES
+		victory_points = {
+			4556 10
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		
+	}
+
+	provinces = {
+		4556
+	}
+
+	local_supplies = 6.0 
+}

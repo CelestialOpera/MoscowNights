@@ -1,0 +1,26 @@
+
+state = {
+	id = 841
+	name = "STATE_841"
+	manpower = 2520000
+	
+	state_category = city
+
+	history = {
+		owner = PAL
+		add_core_of = PAL
+		buildings = {
+		
+			infrastructure = 2
+		}
+		victory_points = {
+			1086 15 
+		}
+	}
+
+	provinces = {
+		1086 7107
+	}
+
+	local_supplies = 6.0 
+}

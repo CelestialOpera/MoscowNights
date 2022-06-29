@@ -1,0 +1,84 @@
+﻿capital = 37
+
+recruit_character = DEN_Niels_Helveg_Petersen
+recruit_character = DEN_Jonni_Hansen
+recruit_character = DEN_Povl_Heinrich_Riis_Knudsen
+recruit_character = DEN_Pia_Kjærsgaard
+recruit_character = DEN_Flemming_Kofod_Svendsen
+recruit_character = DEN_Poul_Schlüter
+recruit_character = DEN_Uffe_Ellemann_Jensen
+recruit_character = DEN_Klaus_Riis
+recruit_character = DEN_Søren_Søndergaard
+recruit_character = DEN_Collective_Leadership_Denmark
+recruit_character = DEN_Gert_Petersen
+recruit_character = DEN_Svend_Auken
+recruit_character = DEN_Marianne_Jelved
+
+set_research_slots = 3
+set_stability = 0.6
+set_war_support = 0.1
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_recon = 1
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	early_fighter = 1
+	cv_early_fighter = 1
+}
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_submarine = 1
+		early_destroyer = 1
+		early_heavy_cruiser = 1
+		transport = 1
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		early_ship_hull_light = 1
+		early_ship_hull_submarine = 1
+		early_ship_hull_cruiser = 1
+		basic_battery = 1
+		basic_secondary_battery = 1
+		basic_cruiser_armor_scheme = 1
+		basic_torpedo = 1
+		coastal_defense_ships = 1
+		mtg_transport = 1
+	}
+}
+
+add_ideas = {
+	NATO_member
+	idea_denmark_margrethe_ii
+}
+
+set_politics = {
+	ruling_party = liberal
+	last_election = "1935.10.22"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	ultranationalist = 0
+	ultranationalist = 0
+	neo_authoritarian = 5
+	national_conservative = 2
+	new_democracy = 20
+	centrist = 10
+	liberal = 15
+	progressive = 29
+	democratic_socialist = 14
+	neo_socialist = 3
+	neo_socialist = 1
+	marxist_leninist = 1
+}
+
+set_convoys = 40

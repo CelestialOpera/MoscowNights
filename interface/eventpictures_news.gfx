@@ -1,0 +1,63 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "news_the_black_morning"
+		texturefile = "gfx/event_pictures/news_event/the_black_morning_news.dds"
+	}
+	
+	spriteType = {
+		name = "news_attempt_on_herriot"
+		texturefile = "gfx/event_pictures/news_event/attempt_on_herriot.dds"
+	}
+	
+	spriteType = {
+		name = "news_herriot_dead"
+		texturefile = "gfx/event_pictures/news_event/herriot_dead.dds"
+	}
+	
+	spriteType = {
+		name = "news_war_in_britain"
+		texturefile = "gfx/event_pictures/news_event/war_in_britain.dds"
+	}
+	
+	spriteType = {
+		name = "news_arriving_new_york"
+		texturefile = "gfx/event_pictures/news_event/arriving_new_york.dds"
+	}
+	
+	spriteType = {
+		name = "news_world_summit_begins"
+		texturefile = "gfx/event_pictures/news_event/world_summit_begins.dds"
+	}
+	
+	spriteType = {
+		name = "news_radio_silence"
+		texturefile = "gfx/event_pictures/news_event/radio_silence.dds"
+	}
+	
+	spriteType = {
+		name = "news_devestation"
+		texturefile = "gfx/event_pictures/news_event/devestation.dds"
+	}
+	
+	spriteType = {
+		name = "news_NATO_Dissolved"
+		texturefile = "gfx/event_pictures/news_event/NATO_dissolved.dds"
+	}
+	
+	spriteType = {
+		name = "denmark_fremskridtspartiet_wins_news"
+		texturefile = "gfx/event_pictures/news_event/denmark_fremskridtspartiet_wins_news.dds"
+	}
+	
+	spriteType = {
+		name = "denmark_venstre_wins_news"
+		texturefile = "gfx/event_pictures/news_event/denmark_venstre_wins_news.dds"
+	}
+	
+	spriteType = {
+		name = "denmark_sozi_wins_news"
+		texturefile = "gfx/event_pictures/news_event/denmark_sozi_wins_news.dds"
+	}
+
+}

@@ -1,0 +1,25 @@
+
+state = {
+	id = 844
+	name = "STATE_844"
+	manpower = 38000
+	
+	state_category = pastoral
+
+	history = {
+		owner = ISR
+		add_core_of = ISR
+		add_claim_by = SYR
+		buildings = {
+
+			infrastructure = 3
+		}
+		
+	}
+
+	provinces = {
+		13240
+	}
+
+	local_supplies = 6.0 
+}
